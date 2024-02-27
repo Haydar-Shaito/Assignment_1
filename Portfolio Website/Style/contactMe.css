@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-size: 0px
+}
+body{
+    background-image: url(/Img/Backg2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    background-blend-mode: darken;
+}
+
+.menu{
+    height: 128px;
+    margin-right: 25px;
+    display: inline-block;
+    font-size: 20px;
+    float: right;
+    text-align: center; 
+}
+ul{
+    margin-top: 30px;
+}
+li a{
+    font-size: 20px;
+    margin: 5px;
+    padding: 2px;
+    color:brown;
+    display: inline-flex;
+    border: 2px solid rgb(62, 16, 66);
+}
+header{
+    height: 128px;
+    
+}
+p{
+    font-size: 20px;
+    
+    margin: 25px;
+}
+h1{
+    font-size: 20px;
+    
+    margin: 25px;
+}
+section div{
+    background-color: rgba(255, 228, 196, 0.596);
+    width: 60%;
+}
